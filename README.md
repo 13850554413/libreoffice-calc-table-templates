@@ -1,11 +1,12 @@
+本文是 的克隆，因本人需要一套简体中文的版本方便编辑和使用，感谢 
 # libreoffice-calc-table-templates
-LibreOffice Calc的萬用表格彙集處
+LibreOffice Calc的常用表格
 
-這些都是從網路上彙整而來的表格，原本都是Excel格式
-為了推廣LibreOffice Calc，我把它轉換成ODS格式 (Open Document Spreadsheet)供人下載。
+這些都是从网络上搜集而来的表格，原本都是Excel格式
+为了推广LibreOffice Calc，我把它转换成ODS格式 (Open Document Spreadsheet)供人下载。
 
-LibreOffice是免費的自由軟體
-安裝方法請參考此網頁：http://blog.pulipuli.info/2016/04/libreoffice-portable-libreoffice.html
+LibreOffice是免费的自由软件
+安裝方法请参考此网页：http://blog.pulipuli.info/2016/04/libreoffice-portable-libreoffice.html
 
 # MEMO
 http://pulipulichen.github.io/libreoffice-calc-table-templates
