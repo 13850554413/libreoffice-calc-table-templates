@@ -1,4 +1,4 @@
-本文是https://github.com/pulipulichen/libreoffice-calc-table-templates.git的克隆，因本人需要一套简体中文的版本方便编辑和使用，感谢 
+本文是https://github.com/pulipulichen/libreoffice-calc-table-templates.git 的克隆，因本人需要一套简体中文的版本方便编辑和使用，感谢 
 # libreoffice-calc-table-templates
 LibreOffice Calc的常用表格
 
